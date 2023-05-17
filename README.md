@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I am Violeta Kastreva 👋
 
-<!--
-**violeta-kastreva/violeta-kastreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### My skills:
+*  Web app development - Java and Kotlin (Spring and .NET), JavaScript, HTML and CSS
+*  Game Development: C++ and JavaScript
+*  UX/UI
+*  Databases - MySQL
+*  Clean, secure and maintainable code
+*  Git
 
-Here are some ideas to get you started:
+##### Computer Science student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Currently learning Artificial Intelligence
+
+
