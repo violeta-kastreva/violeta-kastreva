@@ -8,6 +8,9 @@
     *  Git
 
 
+* #### Teaching Assistant in Linear Algebra and Introduction to Programming in Sofia University
+
+
 * #### Computer Science student
 
 
