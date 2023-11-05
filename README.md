@@ -4,7 +4,8 @@
     *  Web app development - Java and C# (Spring and .NET), JavaScript, HTML and CSS
     *  Game Development: C++ and JavaScript
     *  Databases - MySQL
-    *  Clean, secure and maintainable code
+    *  Machine Learning (in process) - Python
+    *  Clean, secure, and maintainable code
     *  Git
 
 
