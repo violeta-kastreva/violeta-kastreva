@@ -11,10 +11,10 @@
     *  Git
 
 
-* #### Teaching Assistant in Linear Algebra and Introduction to Programming in Sofia University
-    * ##### Linear Algebra
-    * ##### Programming in C++
-    * ##### Languages, Automata and Computation
+* #### Teaching Assistant in FMI, Sofia University
+    * Linear Algebra
+    * Programming in C++
+    * Languages, Automata and Computation
 
 
 * #### Computer Science student
