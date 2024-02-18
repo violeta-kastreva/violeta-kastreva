@@ -1,12 +1,13 @@
 ## Hello, I am Violeta Kastreva 👋
 
 * #### My skills:
-    *  Web app development: 
+    * #### Web app development: 
     *  Frontend: Javascript, Typescript, React, HTML & CSS
     *  Backend: Spring (Java), .NET (C#), Knex and Objection (Typescript)
-    *  Game Development: C++ and JavaScript
     *  Databases - MySQL, PostgreSQL
-    *  Machine Learning (in process) - Python, TensorFlow
+      
+    * #### Game Development: C++ and JavaScript
+    * ####  Artificial Intelligence - Python, TensorFlow, PyTorch
     *  Clean, secure, and maintainable code
     *  Git
 
@@ -20,6 +21,5 @@
 * #### Computer Science student
 
 
-* #### Currently studying Artificial Intelligence
 
 
