@@ -1,5 +1,7 @@
 ## Hello, I am Violeta Kastreva 👋
 
+* ### Student of the Year in category "Mathematics and Informatics" 2024 🖥️ - Sofia University 
+
 * #### My skills:
     * #### Web app development: 
     *  Frontend: Javascript, Typescript, React, HTML & CSS
