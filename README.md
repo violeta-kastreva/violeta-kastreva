@@ -8,7 +8,7 @@
 * #### My skills:
     * ####  Artificial Intelligence - Python, TensorFlow, PyTorch
       
-    * ####  Formal proofs - Coq
+    * ####  Formal proofs - Coq, Haskell
       
     * #### Web app development: 
 
