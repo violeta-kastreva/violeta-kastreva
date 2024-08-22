@@ -17,9 +17,6 @@
        *  Databases - MySQL, PostgreSQL
       
     * #### Game Development: C++ and JavaScript
-  
-    *  Clean, secure, and maintainable code, Git
-
 
 * #### Teaching Assistant in FMI, Sofia University
     * Linear Algebra
