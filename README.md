@@ -19,9 +19,10 @@
     * #### Game Development: C++ and JavaScript
 
 * #### Teaching Assistant in FMI, Sofia University
-    * Linear Algebra
+    * Linear & Abstract Algebra
+    * Calculus
     * Programming in C++
-    * Languages, Automata and Computation
+    * Discrete Mathematics and Automata
 
 
 * #### Computer Science student
